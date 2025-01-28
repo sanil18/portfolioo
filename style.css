@@ -407,7 +407,7 @@ section .title::after{
 
 
 .writing .title::after {
-    content: "Featured Blogs";
+    content: "work experience";
 }
 
 .writing .blogs {
